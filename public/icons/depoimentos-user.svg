@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   version="1.1"
+   id="svg1"
+   width="1024"
+   height="1024"
+   viewBox="0 0 1024 1024"
+   sodipodi:docname="depoimentos-user.svg"
+   inkscape:version="1.4.1 (1:1.4.1+202503302257+93de688d07)"
+   inkscape:export-filename="user.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1">
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath5">
+      <circle
+         style="fill:#d7d7d7;fill-opacity:0.871069;stroke-width:13.2763;paint-order:markers stroke fill"
+         id="circle6"
+         cx="1590.4332"
+         cy="509.69888"
+         r="436.06293" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath6">
+      <circle
+         style="fill:#d7d7d7;fill-opacity:0.871069;stroke-width:13.2763;paint-order:markers stroke fill"
+         id="circle7"
+         cx="1590.4332"
+         cy="509.69888"
+         r="436.06293" />
+    </clipPath>
+  </defs>
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:current-layer="g1" />
+  <g
+     inkscape:groupmode="layer"
+     inkscape:label="Image"
+     id="g1">
+    <circle
+       style="fill:#e2e2e2;fill-opacity:1;stroke:none;stroke-width:15.5182;stroke-opacity:1;paint-order:markers stroke fill"
+       id="circle2"
+       cx="512"
+       cy="512"
+       r="509.69888" />
+    <circle
+       style="fill:#f5f5f7;fill-opacity:1;stroke:none;stroke-width:13.2763;stroke-opacity:1;paint-order:markers stroke fill"
+       id="path2"
+       cx="512"
+       cy="512"
+       r="436.06293" />
+    <path
+       style="fill:#c5c5c5;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 1323.5036,801.94141 196.7454,199.04739 396.9438,-47.17307 -297.943,-302.74857 z"
+       id="path4"
+       sodipodi:nodetypes="ccccc"
+       clip-path="url(#clipPath6)"
+       transform="translate(-1078.4332,2.3011169)" />
+    <path
+       style="fill:#c5c5c5;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 1483.2243,512.84772 1712.235,281.38326 2081.4052,646.59092 1917.1928,953.81573 Z"
+       id="path5"
+       sodipodi:nodetypes="ccccc"
+       clip-path="url(#clipPath5)"
+       transform="translate(-1078.4332,2.3011169)" />
+    <ellipse
+       style="fill:#555555;fill-opacity:1;stroke-width:18.4569;paint-order:markers stroke fill"
+       id="path1"
+       cx="512"
+       cy="392.91684"
+       rx="159.9281"
+       ry="168.5573" />
+    <path
+       id="rect1"
+       style="fill:#555555;fill-opacity:1;stroke-width:11.77;paint-order:markers stroke fill"
+       d="m 361.6973,601.62924 c -1.0942,0.41225 -2.1926,0.83354 -3.2969,1.26563 -122.8648,48.07732 -113.33,201.34766 -113.33,201.34766 H 512 778.9297 c 0,0 9.5348,-153.27034 -113.33,-201.34766 -1.1043,-0.43209 -2.2027,-0.85338 -3.2969,-1.26563 A 188.94504,134.61572 0 0 1 512,654.67026 188.94504,134.61572 0 0 1 361.6973,601.62924 Z" />
+  </g>
+</svg>

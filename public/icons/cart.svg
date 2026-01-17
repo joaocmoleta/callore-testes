@@ -1,0 +1,17 @@
+<svg width="20" height="20" version="1.1" viewBox="0 0 5.2917 5.2917"
+    xmlns="http://www.w3.org/2000/svg">
+    <g transform="matrix(.0591 0 0 .0591 -2.498 -5.1821)">
+        <path d="m54.117 151.64h38.415l13.087-52.193h22.803" fill="none" stroke="#161617cc"
+            stroke-linecap="round" stroke-linejoin="round" stroke-width="6.765" />
+        <path d="m45.65 113.75h55.877l-8.9958 37.886h-38.415z" fill="none"
+            stop-color="#161617cc" stroke="#161617cc" stroke-linecap="round"
+            stroke-linejoin="round" stroke-miterlimit="7.1" stroke-width="6.765"
+            style="paint-order:fill markers stroke" />
+        <g transform="translate(1.3162)">
+            <circle cx="59.678" cy="163.25" r="5.5875" stop-color="#161617cc"
+                style="paint-order:fill markers stroke" />
+            <circle cx="84.867" cy="163.25" r="5.5875" stop-color="#161617cc"
+                style="paint-order:fill markers stroke" />
+        </g>
+    </g>
+</svg>

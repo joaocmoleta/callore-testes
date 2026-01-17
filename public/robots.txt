@@ -1,0 +1,19 @@
+Sitemap: https://aquecedordetoalhas.com.br/sitemap.xml
+
+User-agent: MJ12bot
+Disallow: /
+
+User-agent: *
+Disallow: /painel/
+Disallow: /dashboard/
+Disallow: /login
+Disallow: /register
+Disallow: /carts/
+Disallow: /forgot-password
+Disallow: /reset-password
+Disallow: /profile
+Disallow: /orders/
+Disallow: /manual-de-instrucoes-callore
+Disallow: /.env
+Disallow: /calcular-frete
+Disallow: /carts/list
