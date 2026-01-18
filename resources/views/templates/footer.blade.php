@@ -164,8 +164,8 @@
         <span class="qtd">{{ $cart->qtd ?? '0' }}</span>
     </a>
 
-    <a href="https://wa.me/+5541991962351" target="_blank" class="whatsapp-float-link-mob">
-        <img src="{{ asset('icons/whatsapp-s.svg') }}" width="30" alt="WhatsApp +55 (41) 99196-2351">
+    <a href="https://wa.me/+5551995944678" target="_blank" class="whatsapp-float-link-mob">
+        <img src="{{ asset('icons/whatsapp-s.svg') }}" width="30" alt="WhatsApp +55 (51) 9 9594-4678">
     </a>
 
     <link rel="stylesheet" href="{{ asset('/css/carousel-1.5.min.css') }}">
